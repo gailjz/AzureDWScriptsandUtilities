@@ -7,7 +7,7 @@
 ##         (a) Remove unwanted header lines 
 ##         (b) Remove ";"
 ##         (c) Remove Indexes and Statistics Statements and put them into a seperate file
-##             with Prefix "IDXS_" or STATS_" 
+##             with Prefix "IDXS_" or STATS_"  (Updated in 2.0, Feb 2020: IDXSXYX_ or STATSXYZ_) 
 ##    (2) Views:
 ##         (a) Remove unwanted hearder lines until CREATE VIEW Statement
 ##         (b) Remove ";"
@@ -24,7 +24,7 @@
 ##   
 ##  July 2018 
 ##  
-## Version 2.0 update
+## Version 2.0 update (Feb 2020) 
 ##  (1) Changed Statistics file prefix from "STATS_" to "STATSXYZ_"
 ##  (2) Changed Index file prefix from "IDXS_" to "IDXSXYZ_"
 ###############################################################################################
